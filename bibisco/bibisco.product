@@ -234,6 +234,7 @@ END OF TERMS AND CONDITIONS
       <plugin id="org.eclipse.ui.ide"/>
       <plugin id="org.eclipse.ui.views"/>
       <plugin id="org.eclipse.ui.workbench"/>
+      <plugin id="org.eclipse.ui.application"/>
       <plugin id="org.eclipse.update.configurator"/>
       <plugin id="org.w3c.css.sac"/>
       <plugin id="org.w3c.dom.events"/>
